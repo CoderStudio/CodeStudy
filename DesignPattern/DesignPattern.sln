@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{D25218FF-91CD-46DA-AB3B-851A63884FEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP", "SRP\SRP.csproj", "{2D48A927-8541-411E-BAB7-676C532D975D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "LSP\LSP.csproj", "{0B44103A-4477-4A6D-8EC3-779323357664}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D25218FF-91CD-46DA-AB3B-851A63884FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D25218FF-91CD-46DA-AB3B-851A63884FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D25218FF-91CD-46DA-AB3B-851A63884FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D48A927-8541-411E-BAB7-676C532D975D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D48A927-8541-411E-BAB7-676C532D975D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D48A927-8541-411E-BAB7-676C532D975D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D48A927-8541-411E-BAB7-676C532D975D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B44103A-4477-4A6D-8EC3-779323357664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B44103A-4477-4A6D-8EC3-779323357664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B44103A-4477-4A6D-8EC3-779323357664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B44103A-4477-4A6D-8EC3-779323357664}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
